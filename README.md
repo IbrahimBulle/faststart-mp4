@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your Go project:
-
----
-
 # 🎬 FastStart MP4 Processor
 
 A simple Go utility that automatically processes all `.mp4` videos in a chosen directory and makes them **streaming-ready** by enabling the **faststart** flag using `ffmpeg`.
